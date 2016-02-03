@@ -1,0 +1,16 @@
+{
+  "title": "Better Code Review",
+  "name": "better-code-review",
+  "version": "0.0.1",
+  "description": "Better code reviews for GitHub",
+  "main": "index.js",
+  "author": "Markus Weimer <weimer@apache.org>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "ASL",
+  "keywords": [
+    "jetpack"
+  ]
+}
