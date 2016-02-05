@@ -9,5 +9,5 @@ function append_jira_url(index, html){
 
 $( ".issue-title-link" )
     // Append the JIR URL
-    .append(append_jira_url)
+    .after(append_jira_url)
     ;
